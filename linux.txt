@@ -1,0 +1,14 @@
+LINUX and COMMANDS
+•	Linux is a core.
+•	GNU/Linux is an OP (Operation System)
+•	It is an Open – Source
+•	It is an Open-Source Foundation (OSF)
+•	It is Free Software / Source Foundation (FSF)
+•	First version, 0,01, was released in 1991
+•	Version 1,0 was released in 1994
+•	Android started sing Linux in 1998
+•	REVOLUTION OS: This is a recommended “documentary” about the emergence of Linux. 
+•	Linux is Embedded System
+•	Linux has two components: 1. Kernel, 2. Assembler Codes
+•	Linux has 2 types of Interfaces:   1. Command Line Interface
+2. Graphic Line Interface
