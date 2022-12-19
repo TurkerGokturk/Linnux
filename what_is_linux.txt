@@ -9,6 +9,8 @@
 •	Android started sing Linux in 1998
 •	REVOLUTION OS: This is a recommended “documentary” about the emergence of Linux. 
 •	Linux is Embedded System
-•	Linux has two components: 1. Kernel, 2. Assembler Codes
-•	Linux has 2 types of Interfaces:   1. Command Line Interface
-2. Graphic Line Interface
+•	Linux has two components: 	1. Kernel
+					2. Assembler Codes
+•	Linux has 2 types of Interfaces:   
+					1. Command Line Interface
+					2. Graphic Line Interface
