@@ -1,4 +1,4 @@
-LINUX and COMMANDS
+		What is Linux
 •	Linux is a core.
 •	GNU/Linux is an OP (Operation System)
 •	It is an Open – Source
